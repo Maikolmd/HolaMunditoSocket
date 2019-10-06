@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HolaMunditoSocket\ClienteHolaMunditoS\bin\Debug\ClienteHolaMunditoS.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HolaMunditoSocket\ClienteHolaMunditoS\bin\Debug\ClienteHolaMunditoS.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HolaMunditoSocket\ClienteHolaMunditoS\bin\Debug\ClienteHolaMunditoS.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HolaMunditoSocket\ClienteHolaMunditoS\obj\Debug\ClienteHolaMunditoS.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HolaMunditoSocket\ClienteHolaMunditoS\obj\Debug\ClienteHolaMunditoS.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\HolaMunditoSocket\ClienteHolaMunditoS\obj\Debug\ClienteHolaMunditoS.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMunditoSocket", "HolaMunditoSocket\HolaMunditoSocket.csproj", "{CDBD06FC-B2C3-4AE5-AFBF-1ADDE273CA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteHolaMunditoS", "ClienteHolaMunditoS\ClienteHolaMunditoS.csproj", "{839224AA-6B16-4168-AF8F-B7EA0099FE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBD06FC-B2C3-4AE5-AFBF-1ADDE273CA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBD06FC-B2C3-4AE5-AFBF-1ADDE273CA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBD06FC-B2C3-4AE5-AFBF-1ADDE273CA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBD06FC-B2C3-4AE5-AFBF-1ADDE273CA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839224AA-6B16-4168-AF8F-B7EA0099FE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839224AA-6B16-4168-AF8F-B7EA0099FE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839224AA-6B16-4168-AF8F-B7EA0099FE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839224AA-6B16-4168-AF8F-B7EA0099FE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

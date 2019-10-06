@@ -1,0 +1,12 @@
+\\mac\home\documents\visual studio 2015\Projects\HolaMunditoSocket\HolaMunditoSocket\bin\Debug\HolaMunditoSocket.exe.config
+\\mac\home\documents\visual studio 2015\Projects\HolaMunditoSocket\HolaMunditoSocket\bin\Debug\HolaMunditoSocket.exe
+\\mac\home\documents\visual studio 2015\Projects\HolaMunditoSocket\HolaMunditoSocket\bin\Debug\HolaMunditoSocket.pdb
+\\mac\home\documents\visual studio 2015\Projects\HolaMunditoSocket\HolaMunditoSocket\obj\Debug\HolaMunditoSocket.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\HolaMunditoSocket\HolaMunditoSocket\obj\Debug\HolaMunditoSocket.exe
+\\mac\home\documents\visual studio 2015\Projects\HolaMunditoSocket\HolaMunditoSocket\obj\Debug\HolaMunditoSocket.pdb
+G:\INACAP2019\Programacion Avanzada\HolaMunditoSocket\HolaMunditoSocket\bin\Debug\HolaMunditoSocket.exe.config
+G:\INACAP2019\Programacion Avanzada\HolaMunditoSocket\HolaMunditoSocket\obj\Debug\HolaMunditoSocket.exe
+G:\INACAP2019\Programacion Avanzada\HolaMunditoSocket\HolaMunditoSocket\obj\Debug\HolaMunditoSocket.pdb
+G:\INACAP2019\Programacion Avanzada\HolaMunditoSocket\HolaMunditoSocket\bin\Debug\HolaMunditoSocket.exe
+G:\INACAP2019\Programacion Avanzada\HolaMunditoSocket\HolaMunditoSocket\bin\Debug\HolaMunditoSocket.pdb
+G:\INACAP2019\Programacion Avanzada\HolaMunditoSocket\HolaMunditoSocket\obj\Debug\HolaMunditoSocket.csprojResolveAssemblyReference.cache
